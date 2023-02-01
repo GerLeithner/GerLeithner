@@ -5,8 +5,8 @@
   
 
 ###  Since I was little I get along whit drawing and computers. I'm a advance 
-architecture student and in 2021 I started learning programming. I recently finished Soy Henry's bootcamp, with the title of Full Stack Developer. There we learned to work with technologies based on Javascript, such as Node Js, React, Redux, PostgresSQL, Github. Tech Skills mainly oriented to web development.
-I look forward to starting a career in the programming industry, to continue learning and developing skills alongside a team of surely very interesting people.  
+###  architecture student and in 2021 I started learning programming. I recently finished Soy Henry's bootcamp, with the title of Full Stack Developer. There we learned to work with technologies based on Javascript, such as Node Js, React, Redux, PostgresSQL, Github. Tech Skills mainly oriented to web development.
+###  I look forward to starting a career in the programming industry, to continue learning and developing skills alongside a team of surely very interesting people.  
   
 ### Connect with me  
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/german-leithner-a23049150/" target="_blank">
